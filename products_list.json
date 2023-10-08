@@ -1,0 +1,889 @@
+[
+  {
+    "product_name": "Kindle Paperwhite – Now Waterproof with 2x the Storage",
+    "description": "The thinnest, lightest Kindle Paperwhite yet—with a flush-front design and 300 ppi glare-free display that reads like real paper even in bright sunlight.",
+    "price": 149.99,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61VgCA%2BMk6L._AC_SL1000_.jpg"
+  },
+  {
+    "product_name": "GoPro HERO8 Black - Waterproof Action Camera with Touch Screen",
+    "description": "Ultra high-definition video with built-in mounting and HyperSmooth 2.0 video stabilization.",
+    "price": 299.99,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71FnBxRwzRL._AC_SL1500_.jpg"
+  },
+  {
+    "product_name": "Sony WH-1000XM3 Wireless Noise-Canceling Headphones",
+    "description": "Industry-leading noise canceling with a proprietary HD noise-canceling processor and 40mm driver unit.",
+    "price": 348.00,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61D4Z%2BPl88L._AC_SL1500_.jpg"
+  },
+  {
+    "product_name": "Beats Solo3 Wireless On-Ear Headphones",
+    "description": "With up to 40 hours of battery life, these headphones offer award-winning sound with Class 1 Bluetooth technology.",
+    "price": 179.99,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/51l5XvRajgL._AC_SL1000_.jpg"
+  },
+  {
+    "product_name": "Apple iPad Air (10.5-inch, Wi-Fi, 64GB) - Space Gray",
+    "description": "10.5-inch Retina display with True Tone and wide color.",
+    "price": 499.00,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61vVcORu4jL._AC_SL1024_.jpg"
+  },
+  {
+    "product_name": "Samsung Galaxy Tab S7 Wi-Fi",
+    "description": "11-inch tablet that features a 120Hz refresh rate display and an S Pen that lets you create or work with ease.",
+    "price": 649.99,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71r%2Bznp%2B0XL._AC_SL1500_.jpg"
+  },
+  {
+    "product_name": "Anker PowerCore 10000 Portable Charger",
+    "description": "Small and portable, this high-speed charger delivers up to 3 phone charges and 2 tablet charges.",
+    "price": 19.99,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/51TnK9Cv%2BHL._AC_SL1000_.jpg"
+  },
+  {
+    "product_name": "Sonos Move - Battery-powered Smart Speaker",
+    "description": "Experience surprisingly deep bass, a wide soundscape, and automatic Trueplay tuning that perfectly balances the sound for where you are and what you're listening to.",
+    "price": 399.00,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71jK1Y36mDL._AC_SL1500_.jpg"
+  },
+  {
+    "product_name": "Nintendo Switch - Animal Crossing: New Horizons Edition",
+    "description": "Take your island getaway with you with this Nintendo Switch system and Animal Crossing: New Horizons game package.",
+    "price": 299.99,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71LcA7G4gGL._AC_SL1500_.jpg"
+  },
+  {
+    "product_name": "Apple Watch Series 6 (GPS, 40mm) - Gold Aluminum Case with Pink Sand Sport Band",
+    "description": "Track your daily activity and monitor your health with the latest Apple Watch, now with a Blood Oxygen app and always-on Retina display.",
+    "price": 399.00,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71bf9IpGjtL._AC_SL1500_.jpg"
+  },
+  {
+    "product_name": "Fitbit Charge 4 Fitness and Activity Tracker with Built-in GPS, Heart Rate, Sleep & Swim Tracking",
+    "description": "Stay motivated with this fitness and activity tracker that tracks your daily steps, distance, calories burned, and more.",
+    "price": 129.95,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71YXShTXfjL._AC_SL1500_.jpg"
+  },
+  {
+    "product_name": "Apple AirPods Pro",
+    "description": "Active Noise Cancellation for immersive sound and Transparency mode for hearing and connecting with the world around you.",
+    "price": 249.00,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71zny7BTRlL._AC_SL1500_.jpg"
+  },
+  {
+    "product_name": "Amazon Echo Dot (3rd Gen)",
+    "description": "Smart speaker with Alexa and improved speaker quality.",
+    "price": 29.99,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61bmvRn0aDL._AC_SL1000_.jpg"
+  },
+  {
+    "product_name": "NVIDIA Shield TV Pro 4K HDR Streaming Media Player",
+    "description": "Stream movies, TV shows, music, and more with this powerful media player that delivers a cinematic experience with stunning visuals and Dolby Atmos sound.",
+    "price": 199.99,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61iZtKjHIcL._AC_SL1500_.jpg"
+  },
+  {
+    "product_name": "Bose SoundLink Revolve Portable Bluetooth Speaker",
+    "description": "360-degree sound and up to 12 hours of battery life make this portable speaker a great choice for any occasion.",
+    "price": 199.00,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/81OyGfoO1xL._AC_SL1500_.jpg"
+  },
+  {
+    "product_name": "Cuisinart GR-4NP1 5-in-1 Griddler",
+    "description": "Make delicious pancakes, grilled sandwiches, and more with this versatile countertop appliance that features five cooking options and removable, reversible nonstick cooking plates.",
+    "price": 79.95,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71vgqe1jJdL._AC_SL1500_.jpg"
+  },
+  {
+    "product_name": "Instant Pot Duo 7-in-1 Electric Pressure Cooker",
+    "description": "Cook your favorite meals in minutes with this versatile pressure cooker that features 14 smart programs, 3 pressure levels, and a stainless steel inner pot.",
+    "price": 79.00,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/81s%2B9TlT6FL._AC_SL1500_.jpg"
+  },
+  {
+    "product_name": "Anova Culinary SousVide Precision Cooker Pro",
+    "description": "Achieve restaurant-quality results at home with this precision cooker that features a 1000-watt motor, adjustable time and temperature controls, and WiFi connectivity for remote control and monitoring.",
+    "price": 399.00,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71zAB8Nn-PL._AC_SL1500_.jpg"
+  },
+  {
+    "product_name": "Ninja Professional 72oz Countertop Blender",
+    "description": "Blend smoothies, frozen drinks, and more with this powerful and durable blender that features six blades and three speeds.",
+    "price": 79.99,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/81wOOfMafQL._AC_SL1500_.jpg"
+  },
+  {
+    "product_name": "Keurig K-Cafe Single Serve Coffee Maker",
+    "description": "Brew coffee, lattes, and cappuccinos with this versatile single serve coffee maker that features a built-in milk frother and multiple cup sizes.",
+    "price": 169.99,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61-7VJz-qfL._AC_SL1500_.jpg"
+  },
+  {
+    "product_name": "Beats Studio3 Wireless Noise Cancelling Over-Ear Headphones",
+    "description": "Experience immersive sound with these wireless headphones that feature Pure Adaptive Noise Cancelling technology and up to 22 hours of battery life.",
+    "price": 349.95,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/81wDvHwrx8L._AC_SL1500_.jpg"
+  },
+  {
+    "product_name": "Samsung Galaxy Tab S7 FE 12.4 Inch Wi-Fi Tablet",
+    "description": "Stay productive and entertained with this powerful tablet that features a 12.4-inch display, S Pen support, and up to 13 hours of battery life.",
+    "price": 529.99,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/81PcH8JhSxS._AC_SL1500_.jpg"
+  },
+  {
+    "product_name": "Google Nest Learning Thermostat",
+    "description": "Save energy and control your home's temperature with this smart thermostat that learns your schedule and can be controlled remotely with your smartphone or voice commands.",
+    "price": 249.00,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/81WQJjR6HRL._AC_SL1500_.jpg"
+  },
+  {
+    "product_name": "Anker PowerCore 10000 Portable Charger",
+    "description": "Keep your devices charged on-the-go with this compact and powerful portable charger that can provide up to three charges for most smartphones.",
+    "price": 19.99,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71ZlL9Z%2B8dL._AC_SL1500_.jpg"
+  },
+  {
+    "product_name": "Bose QuietComfort 35 II Wireless Bluetooth Headphones",
+    "description": "Experience superior sound quality and noise cancellation with these wireless headphones that feature Alexa voice control and up to 20 hours of battery life.",
+    "price": 299.00,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/81%2BjNVOUsJL._AC_SL1500_.jpg"
+  },
+  {
+    "product_name": "Fitbit Versa 3 Health and Fitness Smartwatch",
+    "description": "Track your workouts, monitor your heart rate, and stay connected with this health and fitness smartwatch that features built-in GPS and up to 6+ days of battery life.",
+    "price": 199.95,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71%2B4X9W%2BzUL._AC_SL1500_.jpg"
+  },
+  {
+    "product_name": "Ring Video Doorbell Pro",
+    "description": "Keep an eye on your front door and protect your home with this smart video doorbell that features advanced motion detection and two-way audio.",
+    "price": 249.99,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71j+X9-4QuL._AC_SL1500_.jpg"
+  },
+  {
+    "product_name": "All-New Amazon Fire HD 8 Tablet",
+    "description": "Enjoy your favorite movies, TV shows, and books on-the-go with this affordable and versatile tablet that features an 8-inch HD display and up to 12 hours of battery life.",
+    "price": 89.99,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61%2BHfYMJc%2BL._AC_SL1000_.jpg"
+  },
+  {
+    "product_name": "Breville Barista Touch Espresso Maker",
+    "description": "Make barista-quality espresso drinks at home with this espresso maker that features a touch screen display and automatic milk frothing.",
+    "price": 999.95,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/81lUJH6U-vL._AC_SL1500_.jpg"
+  },
+  {
+    "product_name": "Roku Streaming Stick+",
+    "description": "Stream your favorite TV shows and movies with this powerful and easy-to-use streaming stick that features 4K and HDR picture quality.",
+    "price": 49.99,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/81%2Bv%2B69uGZL._AC_SL1500_.jpg"
+  },
+  {
+    "product_name": "Amazon Echo Dot (4th Gen)",
+    "description": "Control your smart home devices, play music, and get answers to your questions with this smart speaker that features Alexa voice control and improved sound quality.",
+    "price": 49.99,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/714Rq4k05UL._AC_SL1000_.jpg"
+  },
+  {
+    "product_name": "KitchenAid Artisan Series 5-Quart Stand Mixer",
+    "description": "Mix and knead dough, whip cream, and more with this powerful and stylish stand mixer that comes with a stainless steel bowl and a variety of attachments.",
+    "price": 429.99,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/81e9SjO7VYL._AC_SL1500_.jpg"
+  },
+  {
+    "product_name": "Instant Pot Duo 7-in-1 Electric Pressure Cooker",
+    "description": "Prepare your favorite meals in a fraction of the time with this versatile and easy-to-use pressure cooker that features seven cooking functions.",
+    "price": 79.00,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71oOOWJACfL._AC_SL1500_.jpg"
+  },
+  {
+    "product_name": "Tile Mate Bluetooth Tracker",
+    "description": "Never lose your keys, wallet, or other items again with this Bluetooth tracker that can be attached to anything and located with your smartphone.",
+    "price": 24.99,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71sTt8Q2tjL._AC_SL1500_.jpg"
+  },
+  {
+    "product_name": "Sony WH-1000XM4 Wireless Noise-Cancelling Headphones",
+    "description": "Experience immersive sound quality and noise cancellation with these wireless headphones that feature touch controls and up to 30 hours of battery life.",
+    "price": 348.00,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71id%2B-XZQcL._AC_SL1500_.jpg"
+  },
+  {
+    "product_name": "Nintendo Switch Lite",
+    "description": "Play your favorite Nintendo games on-the-go with this compact and lightweight gaming console that features a built-in control pad and a 5.5-inch touch screen.",
+    "price": 199.99,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71qmW%2B%2BdY0L._AC_SL1500_.jpg"
+  },
+  {
+    "product_name": "SodaStream Fizzi Sparkling Water Maker",
+    "description": "Make your own sparkling water at home with this easy-to-use and eco-friendly sparkling water maker that comes with a reusable bottle.",
+    "price": 89.99,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71GSPxzUVvL._AC_SL1500_.jpg"
+  },
+  {
+    "product_name": "iRobot Roomba i7+ Robot Vacuum",
+    "description": "Keep your floors clean without lifting a finger with this smart robot vacuum that features automatic dirt disposal and advanced mapping technology.",
+    "price": 799.99,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71Kv%2BOMgViL._AC_SL1500_.jpg"
+  },
+  {
+    "product_name": "Anker PowerCore 10000 Portable Charger",
+    "description": "Charge your devices on-the-go with this compact and powerful portable charger that can provide up to three full charges for most smartphones.",
+    "price": 19.99,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/41Dyb5DheSL._AC_SL1024_.jpg"
+  },
+  {
+    "product_name": "Fujifilm Instax Mini 11 Instant Camera",
+    "description": "Capture and print your memories instantly with this fun and easy-to-use instant camera that features automatic exposure and a selfie mode.",
+    "price": 69.00,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71MSHMUkm0L._AC_SL1500_.jpg"
+  },
+  {
+    "product_name": "Bose SoundLink Color Bluetooth Speaker II",
+    "description": "Enjoy your favorite music on-the-go with this portable Bluetooth speaker that delivers bold sound and features a water-resistant design.",
+    "price": 129.00,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71%2Bx7z%2BdNGL._AC_SL1500_.jpg"
+  },
+  {
+    "product_name": "Fitbit Versa 3 Health & Fitness Smartwatch",
+    "description": "Track your workouts, monitor your health, and stay connected with this advanced smartwatch that features voice control and up to 6 days of battery life.",
+    "price": 229.95,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71x8gRhPhlL._AC_SL1500_.jpg"
+  },
+  {
+    "product_name": "Apple iPad Air",
+    "description": "Stay productive and entertained on-the-go with this powerful and lightweight tablet that features a 10.9-inch Liquid Retina display and up to 10 hours of battery life.",
+    "price": 599.00,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71%2Bc0F1TKtL._AC_SL1500_.jpg"
+  },
+  {
+    "product_name": "Roku Streaming Stick+",
+    "description": "Stream your favorite movies and TV shows in HD and 4K with this easy-to-use and portable streaming stick that features voice control and a Wi-Fi antenna for stronger connectivity.",
+    "price": 49.99,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71A%2B0iUhuKL._AC_SL1500_.jpg"
+  },
+  {
+    "product_name": "Lululemon Align Pant II",
+    "description": "Stay comfortable and stylish during your workouts with these popular and high-quality yoga pants that feature a buttery-soft fabric and a high-rise waistband.",
+    "price": 98.00,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71lI2wT%2BThL._AC_SL1500_.jpg"
+  },
+  {
+    "product_name": "Samsung Galaxy S21 5G",
+    "description": "Stay connected and capture stunning photos with this advanced smartphone that features a 6.2-inch Dynamic AMOLED display and a triple camera system.",
+    "price": 699.99,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71DvMFLJz2L._AC_SL1500_.jpg"
+  },
+  {
+    "product_name": "Ninja Foodi 8-Quart 9-in-1 Deluxe XL Pressure Cooker",
+    "description": "Cook your favorite meals in less time with this versatile and powerful pressure cooker that features multiple cooking functions and a large capacity.",
+    "price": 199.99,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/81Bvl%2BCiHfL._AC_SL1500_.jpg"
+  },
+  {
+    "product_name": "Sony WH-1000XM4 Wireless Noise Cancelling Headphones",
+    "description": "Enjoy your music in peace with these high-quality and comfortable headphones that feature advanced noise cancelling technology and up to 30 hours of battery life.",
+    "price": 348.00,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71o8Q5XJS5L._AC_SL1500_.jpg"
+  },
+  {
+    "product_name": "Canon EOS M50 Mark II Mirrorless Camera",
+    "description": "Capture stunning photos and videos with this advanced mirrorless camera that features a 24.1-megapixel CMOS sensor and a vari-angle touchscreen display.",
+    "price": 599.00,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/81lU6wE%2BbmL._AC_SL1500_.jpg"
+  },
+  {
+    "product_name": "Nintendo Switch Lite",
+    "description": "Play your favorite games on-the-go with this lightweight and compact gaming console that features a 5.5-inch touchscreen display and up to 7 hours of battery life.",
+    "price": 199.99,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71qmD4Y-IbL._AC_SL1500_.jpg"
+  },
+  {
+    "product_name": "Instant Pot Duo Nova 7-in-1 Electric Pressure Cooker",
+    "description": "Cook delicious meals with ease using this versatile and easy-to-use electric pressure cooker that features seven cooking functions and a large LCD display.",
+    "price": 79.99,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71rJrEkYE%2BL._AC_SL1500_.jpg"
+  },
+  {
+    "product_name": "Apple AirPods Pro",
+    "description": "Experience immersive sound and advanced noise cancelling with these high-quality and comfortable wireless earbuds that feature a customizable fit and up to 24 hours of battery life.",
+    "price": 249.00,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71zny7BTRlL._AC_SL1500_.jpg"
+  },
+  {
+    "product_name": "Samsung Galaxy Watch3",
+    "description": "Stay connected and monitor your health with this advanced and stylish smartwatch that features a 1.4-inch AMOLED display and up to 4 days of battery life.",
+    "price": 329.99,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71V8gJdJF-L._AC_SL1500_.jpg"
+  },
+  {
+    "product_name": "Sony PlayStation 5 Console",
+    "description": "Experience next-gen gaming with this powerful and highly-anticipated gaming console that features ultra-fast loading times and stunning graphics.",
+    "price": 499.99,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/619BkvKW35L._SL1500_.jpg"
+  },
+  {
+    "product_name": "Fujifilm Instax Mini 11 Instant Camera",
+    "description": "Capture your memories instantly with this fun and easy-to-use instant camera that features automatic exposure and a built-in selfie mirror.",
+    "price": 69.00,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71wmL2RyXkL._AC_SL1500_.jpg"
+  },
+  {
+    "product_name": "Beats Solo Pro Wireless Noise Cancelling On-Ear Headphones",
+    "description": "Experience high-quality audio and advanced noise cancelling with these stylish and comfortable wireless headphones that feature up to 22 hours of battery life.",
+    "price": 299.95,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71z1JZg0a2L._AC_SL1500_.jpg"
+  },
+  {
+    "product_name": "Fitbit Versa 2 Smartwatch",
+    "description": "Monitor your fitness and stay connected with this advanced and stylish smartwatch that features a 1.4-inch AMOLED display and up to 6 days of battery life.",
+    "price": 149.95,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71jiGaztijL._AC_SL1500_.jpg"
+  },
+  {
+    "product_name": "Microsoft Surface Laptop 4",
+    "description": "Stay productive and connected with this powerful and lightweight laptop that features a 13.5-inch touchscreen display and up to 19 hours of battery life.",
+    "price": 999.99,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71xr3Zk3bhL._AC_SL1500_.jpg"
+  },
+  {
+    "product_name": "Ring Video Doorbell Pro 2",
+    "description": "Keep your home safe and secure with this advanced and easy-to-use video doorbell that features 1080p HD video and customizable motion detection.",
+    "price": 249.99,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71ZVKgGxdSL._AC_SL1500_.jpg"
+  },
+  {
+    "product_name": "JBL Flip 5 Waterproof Portable Bluetooth Speaker",
+    "description": "Take your music with you anywhere with this durable and high-quality portable speaker that features up to 12 hours of playtime and a waterproof design.",
+    "price": 119.95,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71B-JkRUZrL._AC_SL1500_.jpg"
+  },
+  {
+    "product_name": "LG OLED55C1PUB 55-Inch OLED 4K Smart TV",
+    "description": "Experience stunning picture quality and advanced smart features with this high-end 55-inch OLED TV from LG.",
+    "price": 1499.99,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/81YIYk34naS._AC_SL1500_.jpg"
+  },
+  {
+    "product_name": "Samsung Galaxy Buds Pro",
+    "description": "Enjoy high-quality audio and advanced noise cancelling with these comfortable and stylish wireless earbuds from Samsung that feature up to 18 hours of battery life.",
+    "price": 199.99,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71xIyX%2BNBIL._AC_SL1500_.jpg"
+  },
+  {
+    "product_name": "Dyson V11 Torque Drive Cordless Vacuum",
+    "description": "Clean your home quickly and easily with this advanced cordless vacuum that features powerful suction and up to 60 minutes of runtime.",
+    "price": 699.99,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71ryZ0%2BdOFL._AC_SL1500_.jpg"
+  },
+  {
+    "product_name": "Apple Watch Series 7",
+    "description": "Stay connected and motivated with this advanced and customizable smartwatch from Apple that features a larger, always-on Retina display and up to 18 hours of battery life.",
+    "price": 399.00,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/81CtQ2ndtRL._AC_SL1500_.jpg"
+  },
+  {
+    "product_name": "Nespresso Vertuo Next Coffee and Espresso Maker",
+    "description": "Brew delicious coffee and espresso at home with this easy-to-use and versatile machine that features a compact design and automatic capsule recognition.",
+    "price": 159.00,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71FL-kY9OsL._AC_SL1500_.jpg"
+  },
+  {
+    "product_name": "Sony WH-1000XM4 Wireless Noise Cancelling Overhead Headphones",
+    "description": "Experience high-quality audio and advanced noise cancelling with these comfortable and stylish wireless headphones from Sony that feature up to 30 hours of battery life.",
+    "price": 348.00,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71o8Q5XJS5L._AC_SL1500_.jpg"
+  },
+  {
+    "product_name": "Vitamix 5200 Blender Professional-Grade",
+    "description": "Make healthy and delicious smoothies and soups at home with this powerful and durable blender that features variable speed control and a self-cleaning system.",
+    "price": 449.95,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71zr%2BiaKwrL._AC_SL1500_.jpg"
+  },
+  {
+    "product_name": "Instant Pot Duo Plus 6 Quart 9-in-1 Electric Pressure Cooker",
+    "description": "Cook your favorite meals quickly and easily with this versatile and popular electric pressure cooker that features 15 preset cooking programs and a large, easy-to-use control panel.",
+    "price": 119.95,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/81c0%2Bv6Uu0L._AC_SL1500_.jpg"
+  },
+  {
+    "product_name": "GoPro HERO10 Black",
+    "description": "Capture your adventures in stunning detail and clarity with this advanced and easy-to-use action camera that features HyperSmooth 4.0 video stabilization and up to 5.3K resolution.",
+    "price": 499.99,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61L2tScvomL._AC_SL1500_.jpg"
+  },
+  {
+    "product_name": "LEGO Star Wars Millennium Falcon Building Kit",
+    "description": "Let your child's imagination soar with this 1,351-piece building kit that features the iconic Millennium Falcon from the Star Wars franchise.",
+    "price": 159.99,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/91q%2BH2J6EwL._AC_SL1500_.jpg"
+  },
+  {
+    "product_name": "Melissa & Doug Wooden Multi-Craft Weaving Loom",
+    "description": "Encourage creativity and fine motor skills with this fun and easy-to-use weaving loom that includes everything your child needs to create a variety of woven projects.",
+    "price": 28.79,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/81Oy7rMLdGL._AC_SL1500_.jpg"
+  },
+  {
+    "product_name": "Nintendo Switch Lite - Gray",
+    "description": "Enjoy all the fun of a Nintendo Switch in a smaller, more portable package with this popular and highly rated gaming system.",
+    "price": 199.00,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71qmF7%2B9pSL._AC_SL1500_.jpg"
+  },
+  {
+    "product_name": "VTech KidiZoom Creator Cam",
+    "description": "Let your child unleash their creativity with this easy-to-use and versatile camera that features a flip-up lens and a variety of built-in editing and special effects tools.",
+    "price": 59.99,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71bO5NPyVUL._AC_SL1500_.jpg"
+  },
+  {
+    "product_name": "Razor A Kick Scooter",
+    "description": "Get your child active and outdoors with this classic and reliable kick scooter that features a lightweight and sturdy aluminum frame and smooth-rolling wheels.",
+    "price": 29.92,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/81ruSNeyhTL._AC_SL1500_.jpg"
+  },
+  {
+    "product_name": "Crayola Light Up Tracing Pad Pink, Toys for Kids",
+    "description": "Encourage creativity and fine motor skills with this fun and easy-to-use tracing pad that includes over 100 traceable images and a built-in light for easy tracing.",
+    "price": 24.99,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/81wyFAM04jL._AC_SL1500_.jpg"
+  },
+  {
+    "product_name": "Little Tikes T-Ball Set",
+    "description": "Introduce your child to the fun of baseball with this easy-to-use and adjustable T-ball set that includes a lightweight bat and soft foam baseball.",
+    "price": 24.99,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/81CjbymwM1L._AC_SL1500_.jpg"
+  },
+  {
+    "product_name": "Crayola Inspiration Art Case Coloring Set",
+    "description": "Get your child's creativity flowing with this comprehensive and portable art set that includes 140 coloring tools and a variety of drawing and painting supplies.",
+    "price": 24.99,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/91D1xi5G5RL._AC_SL1500_.jpg"
+  },
+  {
+    "product_name": "Melissa & Doug Deluxe Standing Easel",
+    "description": "Encourage creativity and imagination with this versatile and durable standing easel that features a chalkboard, dryerase board, paper roll, and paint cup holder.",
+    "price": 78.99,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71-yU-4IeNL._AC_SL1500_.jpg"
+  },
+  {
+    "product_name": "Think Gizmos TG637 – Take Apart Racing Car",
+    "description": "Encourage STEM learning and hands-on exploration with this fun and educational take-apart racing car that includes 30 pieces and a working battery-powered drill.",
+    "price": 24.95,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61c%2B7VoswzL._AC_SL1000_.jpg"
+  },
+  {
+    "product_name": "LEGO Disney Frozen II Elsa's Jewelry Box Creation",
+    "description": "Inspire creativity and storytelling with this fun and engaging LEGO set that lets kids build and play with Elsa's beautiful jewelry box and miniature figures from the Frozen II movie.",
+    "price": 38.99,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/81%2BjK5DR1ZL._AC_SL1500_.jpg"
+  },
+  {
+    "product_name": "National Geographic Kids Why?: Over 1,111 Answers to Everything",
+    "description": "Feed your child's curiosity and love of learning with this engaging and informative book that answers over 1,111 questions about science, history, culture, and more.",
+    "price": 11.99,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/91kG%2Bf9XJ7L._AC_SL1500_.jpg"
+  },
+  {
+    "product_name": "Ravensburger Disney Villainous Strategy Board Game",
+    "description": "Enjoy hours of strategic fun with this popular and highly rated board game that lets players take on the role of classic Disney villains and try to achieve their evil objectives.",
+    "price": 34.99,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/91%2B9XfMXGAL._AC_SL1500_.jpg"
+  },
+  {
+    "product_name": "Intex Inflatable Jump-O-Lene Playhouse Trampoline",
+    "description": "Get your child bouncing and playing with this fun and safe inflatable playhouse trampoline that features soft, inflatable walls and floor and a built-in crawl-through door.",
+    "price": 59.99,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/81KjA4tz4zL._AC_SL1500_.jpg"
+  },
+  {
+    "product_name": "Crayola Ultimate Light Board Drawing Tablet",
+    "description": "Let your child's creativity shine with this fun and innovative drawing tablet that features a bright LED drawing surface and a variety of light-up effects.",
+    "price": 24.99,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/81K%2B9DfTV2L._AC_SL1500_.jpg"
+  },
+  {
+    "product_name": "Little Tikes Cozy Coupe",
+    "description": "Encourage imaginative play and outdoor fun with this classic and highly rated ride-on toy car that features a working horn, a storage compartment, and a removable floorboard for foot-powered play.",
+    "price": 54.99,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/81e9XnG67hL._AC_SL1500_.jpg"
+  },
+  {
+    "product_name": "VTech KidiZoom Smartwatch DX2",
+    "description": "Keep your child entertained and engaged with this fun and educational smartwatch that features games, activities, and a built-in camera and video recorder.",
+    "price": 59.99,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71-%2B62we-FL._AC_SL1500_.jpg"
+  },
+  {
+    "product_name": "Kinetic Sand Kit",
+    "description": "Moldable sand that never dries out, with molds and tools.",
+    "price": 19.99,
+    "image_url": "https://example.com/kinetic_sand.jpg"
+  },
+  {
+    "product_name": "Lego Super Mario Starter Course",
+    "description": "Build and play through a Mario-themed world with interactive Lego figures.",
+    "price": 59.99,
+    "image_url": "https://example.com/lego_mario.jpg"
+  },
+  {
+    "product_name": "VTech Kidizoom Smartwatch DX2",
+    "description": "Kid's smartwatch with games, camera, and activity tracker.",
+    "price": 54.99,
+    "image_url": "https://example.com/vtech_watch.jpg"
+  },
+  {
+    "product_name": "National Geographic Kids Magazine Subscription",
+    "description": "A magazine subscription for curious kids who love science and nature.",
+    "price": 15.00,
+    "image_url": "https://example.com/natgeo_kids.jpg"
+  },
+  {
+    "product_name": "Melissa & Doug Deluxe Wooden Standing Art Easel",
+    "description": "Adjustable wooden easel with chalkboard, dry-erase board, paper roll, and paint cups.",
+    "price": 79.99,
+    "image_url": "https://example.com/melissa_doug_easel.jpg"
+  },
+  {
+    "product_name": "Beyblade Burst Evolution SwitchStrike Battle Tower",
+    "description": "Two-player Beyblade battle set with customizable tops and arena.",
+    "price": 49.99,
+    "image_url": "https://example.com/beyblade_tower.jpg"
+  },
+  {
+    "product_name": "Crayola Light Up Tracing Pad",
+    "description": "Tracing pad with LED backlight and tracing paper, plus colored pencils and blank sheets.",
+    "price": 24.99,
+    "image_url": "https://example.com/crayola_tracing.jpg"
+  },
+  {
+    "product_name": "Osmo Genius Starter Kit for iPad",
+    "description": "Interactive iPad games that encourage problem-solving, creativity, and learning.",
+    "price": 99.99,
+    "image_url": "https://example.com/osmo_genius.jpg"
+  },
+  {
+    "product_name": "Nerf N-Strike Elite Disruptor Blaster",
+    "description": "Quick-draw Nerf gun with six-dart rotating drum and up to 90-foot range.",
+    "price": 12.99,
+    "image_url": "https://example.com/nerf_disruptor.jpg"
+  },
+  {
+    "product_name": "K'NEX Thrill Rides Space Invasion Roller Coaster",
+    "description": "Buildable roller coaster with motorized chain lift and glow-in-the-dark track.",
+    "price": 59.99,
+    "image_url": "https://example.com/knex_coaster.jpg"
+  },
+  {
+    "product_name": "Crayola Ultimate Light Board",
+    "description": "Draw and trace with LED backlight, with markers and reusable tracing sheets.",
+    "price": 24.99,
+    "image_url": "https://example.com/crayola_lightboard.jpg"
+  },
+  {
+    "product_name": "Hot Wheels Track Builder System Race Crate",
+    "description": "Buildable and customizable Hot Wheels track with storage and racing case.",
+    "price": 49.99,
+    "image_url": "https://example.com/hotwheels_crate.jpg"
+  },
+  {
+    "product_name": "Magformers Amazing Magnetic Building Set",
+    "description": "Magnetic building blocks in various shapes and colors, with idea book and play mat.",
+    "price": 49.99,
+    "image_url": "https://example.com/magformers.jpg"
+  },
+  {
+    "product_name": "Melissa & Doug Slice and Bake Wooden Cookie Play Food Set",
+    "description": "Wooden cookie play set with 12 sliceable cookies, toppings, knife, spatula, and baking sheet.",
+    "price": 19.99,
+    "image_url": "https://example.com/melissa_doug_cookies.jpg"
+  },
+  {
+    "product_name": "Play-Doh Kitchen Creations Magical Oven",
+    "description": "Electronic oven that makes Play-Doh food creations magically rise, with accessories.",
+    "price": 26.99,
+    "image_url": "https://example.com/playdoh_oven.jpg"
+  },
+  {
+    "product_name": "Step2 Rain Showers Splash Pond Water Table",
+    "description": "Water table with rain shower effect, 13-piece accessory set, and dual-level design.",
+    "price": 69.99,
+    "image_url": "https://example.com/step2_water_table.jpg"
+  },
+  {
+    "product_name": "VTech KidiZoom Creator Cam",
+    "description": "Kid-friendly camera and video recorder with green screen, special effects, and editing software.",
+    "price": 59.99,
+    "image_url": "https://example.com/vtech_cam.jpg"
+  },
+  {
+    "product_name": "National Geographic Mega Crystal Growing Lab",
+    "description": "Kit for growing and displaying seven different crystals, with full-color learning guide.",
+    "price": 39.99,
+    "image_url": "https://example.com/natgeo_crystals.jpg"
+  },
+  {
+    "product_name": "Little Tikes Cozy Coupe 30th Anniversary Car",
+    "description": "Classic ride-on car with working horn, gas cap, and ignition switch.",
+    "price": 54.99,
+    "image_url": "https://example.com/littletikes_coupe.jpg"
+  },
+  {
+    "product_name": "LEGO City Space Mars Research Shuttle",
+    "description": "Buildable and playable Mars research shuttle with opening cockpit, storage space, and more.",
+    "price": 39.99,
+    "image_url": "https://example.com/lego_mars_shuttle.jpg"
+  },
+  {
+    "product_name": "Razor A Kick Scooter",
+    "description": "Classic kick scooter with lightweight aluminum frame and adjustable handlebars.",
+    "price": 34.99,
+    "image_url": "https://example.com/razor_scooter.jpg"
+  },
+  {
+    "product_name": "Melissa & Doug Take-Along Railroad",
+    "description": "Wooden train set with reversible tracks and storage case, compatible with other wooden tracks.",
+    "price": 29.99,
+    "image_url": "https://example.com/melissa_doug_train.jpg"
+  },
+  {
+    "product_name": "Cabbage Patch Kids Official, Newborn Baby Doll Girl",
+    "description": "Soft and cuddly newborn baby doll with removable clothes and pacifier.",
+    "price": 19.99,
+    "image_url": "https://example.com/cabbage_patch_kids.jpg"
+  },
+  {
+    "product_name": "LEGO Classic Medium Creative Brick Box",
+    "description": "Large set of LEGO bricks in various colors and shapes, with ideas booklet.",
+    "price": 34.99,
+    "image_url": "https://example.com/lego_box.jpg"
+  },
+  {
+    "product_name": "Fisher-Price Think & Learn Code-a-Pillar Twist",
+    "description": "Toy caterpillar that teaches coding concepts through rearranging segments.",
+    "price": 49.99,
+    "image_url": "https://example.com/fisherprice_caterpillar.jpg"
+  },
+  {
+    "product_name": "Barbie Dreamtopia Brush 'n Sparkle Unicorn",
+    "description": "Interactive unicorn toy that lights up and plays music, with brushable mane and tail.",
+    "price": 29.99,
+    "image_url": "https://example.com/barbie_unicorn.jpg"
+  },
+  {
+    "product_name": "Playmobil Mars Space Station",
+    "description": "Buildable and playable Mars space station with working lights and sound, and accessories.",
+    "price": 59.99,
+    "image_url": "https://example.com/playmobil_mars.jpg"
+  },
+  {
+    "product_name": "Nerf N-Strike Elite Disruptor Blaster",
+    "description": "Quick-draw, six-dart blaster with rotating drum and slam-fire action.",
+    "price": 12.99,
+    "image_url": "https://example.com/nerf_blaster.jpg"
+  },
+  {
+    "product_name": "VTech Sit-to-Stand Learning Walker",
+    "description": "Interactive baby walker with removable activity panel, light-up piano keys, and more.",
+    "price": 34.99,
+    "image_url": "https://example.com/vtech_walker.jpg"
+  },
+  {
+    "product_name": "Little Tikes Easy Score Basketball Set",
+    "description": "Indoor/outdoor basketball hoop and net with adjustable height and basketball.",
+    "price": 34.99,
+    "image_url": "https://example.com/littletikes_basketball.jpg"
+  },
+  {
+    "product_name": "Melissa & Doug Wooden Scoop and Serve Ice Cream Counter",
+    "description": "Wooden ice cream play set with scoops, toppings, cones, and storage drawers.",
+    "price": 49.99,
+    "image_url": "https://example.com/melissa_doug_ice_cream.jpg"
+  },
+  {
+    "product_name": "Pikmi Pops Surprise! DoughMis Large Pack",
+    "description": "Scented doughnut-shaped plush toys with surprise mini collectibles inside.",
+    "price": 19.99,
+    "image_url": "https://example.com/pikmi_pops.jpg"
+  },
+  {
+    "product_name": "Hot Wheels Corkscrew Crash Track Set",
+    "description": "Motorized track set with corkscrew loop and crash zones, and two Hot Wheels vehicles.",
+    "price": 49.99,
+    "image_url": "https://example.com/hot_wheels_track.jpg"
+  },
+  {
+    "product_name": "Baby Alive Sweet Spoonfuls Baby Doll Girl",
+    "description": "Interactive baby doll with accessories, feeding and diaper-changing features, and removable outfit.",
+    "price": 26.99,
+    "image_url": "https://example.com/baby_alive.jpg"
+  },
+  {
+    "product_name": "K'NEX 70 Model Building Set",
+    "description": "Large set of K'NEX building pieces with ideas for 70 models, including vehicles and creatures.",
+    "price": 39.99,
+    "image_url": "https://example.com/knex_building_set.jpg"
+  },
+  {
+    "product_name": "LeapFrog LeapStart 3D Interactive Learning System",
+    "description": "Interactive book-based learning system with stylus and 3D animations, for preschool and early grade levels.",
+    "price": 49.99,
+    "image_url": "https://example.com/leapfrog_leapstart.jpg"
+  },
+  {
+    "product_name": "Hatchimals HatchiBabies Cheetree",
+    "description": "Interactive hatchable egg toy that reveals a baby cheetah, with accessories and features.",
+    "price": 54.99,
+    "image_url": "https://example.com/hatchimals.jpg"
+  },
+  {
+    "product_name": "Little Live Pets Wrapples",
+    "description": "Interactive wearable plush toys that respond to touch and movement, with over 50 sounds and reactions.",
+    "price": 14.99,
+    "image_url": "https://example.com/little_live_pets.jpg"
+  },
+  {
+    "product_name": "Think Gizmos Take Apart Toy Racing Car",
+    "description": "Buildable and customizable race car with realistic engine sounds, headlights, and music.",
+    "price": 24.95,
+    "image_url": "https://example.com/think_gizmos_car.jpg"
+  },
+  {
+    "product_name": "Mega Bloks First Builders Big Building Bag",
+    "description": "Large bag of colorful building blocks for toddlers and preschoolers, with carry handle.",
+    "price": 14.99,
+    "image_url": "https://example.com/mega_blocks_bag.jpg"
+  },
+  {
+    "product_name": "Fisher-Price Imaginext DC Super Friends Batcave",
+    "description": "Interactive Batcave play set with working elevator, projectile launcher, and figures.",
+    "price": 49.99,
+    "image_url": "https://example.com/fisherprice_batcave.jpg"
+  },
+  {
+    "product_name": "NERF N-Strike Elite Disruptor Blaster",
+    "description": "Quick-draw blaster with six-dart rotating drum, fires up to 90 feet.",
+    "price": 12.99,
+    "image_url": "https://example.com/nerf_disruptor.jpg"
+  },
+  {
+    "product_name": "Disney Frozen 2 Elsa's Jewelry Box Creation",
+    "description": "Jewelry box building set with Elsa figurine and accessories, plus lockable drawer.",
+    "price": 39.99,
+    "image_url": "https://example.com/frozen2_jewelry_box.jpg"
+  },
+  {
+    "product_name": "Play-Doh Kitchen Creations Ultimate Swirl Ice Cream Maker",
+    "description": "Play-Doh set with ice cream maker, toppings dispenser, and accessories for making and decorating pretend ice cream.",
+    "price": 19.99,
+    "image_url": "https://example.com/playdoh_ice_cream.jpg"
+  },
+  {
+    "product_name": "VTech KidiZoom Camera Pix",
+    "description": "Kid-friendly digital camera with photo and video modes, games, and editing effects.",
+    "price": 29.99,
+    "image_url": "https://example.com/vtech_camera.jpg"
+  },
+  {
+    "product_name": "Little Tikes Cozy Truck",
+    "description": "Toy truck with working doors, horn, and tailgate, plus cup holders and flatbed storage.",
+    "price": 89.99,
+    "image_url": "https://example.com/littletikes_truck.jpg"
+  },
+  {
+    "product_name": "LEGO City Space Mars Research Shuttle",
+    "description": "LEGO set with Mars research shuttle, rover vehicle, and two astronaut minifigures.",
+    "price": 39.99,
+    "image_url": "https://example.com/lego_mars_shuttle.jpg"
+  },
+  {
+    "product_name": "Barbie Dreamtopia Mermaid Doll",
+    "description": "Barbie mermaid doll with color-changing tail and removable tiara, for imaginative underwater play.",
+    "price": 9.99,
+    "image_url": "https://example.com/barbie_mermaid.jpg"
+  },
+  {
+    "product_name": "Melissa & Doug Deluxe Wooden Standing Art Easel",
+    "description": "Adjustable wooden easel with paper roll, chalkboard, dry-erase board, and paint cups.",
+    "price": 74.99,
+    "image_url": "https://example.com/melissaanddoug_easel.jpg"
+  },
+  {
+    "product_name": "Crayola Inspiration Art Case",
+    "description": "Large portable art set with crayons, markers, colored pencils, and drawing paper, in a storage case.",
+    "price": 24.99,
+    "image_url": "https://example.com/crayola_art_case.jpg"
+  },
+  {
+    "product_name": "Disney Princess Dress Up Trunk",
+    "description": "Dress-up trunk with four Disney princess costumes, accessories, and storage trunk.",
+    "price": 34.99,
+    "image_url": "https://example.com/disney_princess_trunk.jpg"
+  },
+  {
+    "product_name": "LEGO Friends Heartlake City Amusement Pier",
+    "description": "LEGO set with amusement park pier, roller coaster, and five mini-doll figures.",
+    "price": 129.99,
+    "image_url": "https://example.com/lego_amusement_pier.jpg"
+  },
+  {
+    "product_name": "Fisher-Price Little People Caring for Animals Farm",
+    "description": "Farm playset with animal figures and sound effects, plus farmer and animal figures.",
+    "price": 39.99,
+    "image_url": "https://example.com/fisherprice_farm.jpg"
+  },
+  {
+    "product_name": "Hot Wheels Criss Cross Crash Track Set",
+    "description": "Hot Wheels track set with motorized booster and crash zones, for high-speed stunts and collisions.",
+    "price": 49.99,
+    "image_url": "https://example.com/hotwheels_crash_track.jpg"
+  },
+  {
+    "product_name": "VTech Go! Go! Smart Wheels Ultimate RC Speedway",
+    "description": "Interactive race track with remote-control car, sound effects, and various track configurations.",
+    "price": 59.99,
+    "image_url": "https://example.com/vtech_race_track.jpg"
+  },
+  {
+    "product_name": "NERF Rival Apollo XV-700 Blaster",
+    "description": "High-performance blaster with easy-load magazine and seven high-impact rounds, for intense NERF battles.",
+    "price": 24.99,
+    "image_url": "https://example.com/nerf_rival.jpg"
+  },
+  {
+    "product_name": "Crayola Super Art Coloring Kit",
+    "description": "Comprehensive art kit with crayons, colored pencils, markers, and art supplies, in a durable storage case.",
+    "price": 19.99,
+    "image_url": "https://example.com/crayola_art_kit.jpg"
+  },
+  {
+    "product_name": "Barbie Dreamhouse Adventures Helicopter",
+    "description": "Barbie helicopter toy with spinning rotor, cockpit that opens and closes, and space for two dolls.",
+    "price": 24.99,
+    "image_url": "https://example.com/barbie_helicopter.jpg"
+  },
+  {
+    "product_name": "Ravensburger Disney Villainous Board Game",
+    "description": "Strategy board game with Disney villain characters and asymmetric gameplay mechanics.",
+    "price": 34.99,
+    "image_url": "https://example.com/ravensburger_villainous.jpg"
+  },
+  {
+    "product_name": "Playmobil Ghostbusters Ecto-1",
+    "description": "Detailed Playmobil version of the Ecto-1 vehicle from Ghostbusters, with light and sound effects.",
+    "price": 59.99,
+    "image_url": "https://example.com/playmobil_ghostbusters.jpg"
+  },
+  {
+    "product_name": "LEGO Classic Large Creative Brick Box",
+    "description": "Classic LEGO set with over 1,500 pieces in various colors and shapes, for unlimited building possibilities.",
+    "price": 59.99,
+    "image_url": "https://example.com/lego_creative_box.jpg"
+  }
+]
+
+
+
+
+
