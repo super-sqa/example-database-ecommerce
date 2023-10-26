@@ -47,6 +47,25 @@ class SampleDataGenerator:
         self.cursor = self.conn.cursor(pymysql.cursors.DictCursor)
         self.script_path = os.path.dirname(__file__)
 
+    def create_schema_and_tables(self):
+            # Create a cursor object
+        # cursor = connection.cursor()
+
+        # Read SQL file
+        with open('create_database_tables_and_data.sql', 'r') as f:
+            sql_script = f.read()
+
+        # Execute SQL script
+        for statement in sql_script.split(';'):
+            if statement.strip():  # Ignore empty lines
+                self.cursor.execute(statement)
+
+        # self.cursor.executemany(query, customer_data)
+        self.conn.commit()
+        # Commit changes
+        # connection.commit()
+        print("Successfuly executes cript to create schama and tables.")
+
     # Generate a random string of characters for testing purposes
     def random_string(self, length):
         letters = string.ascii_lowercase
@@ -304,7 +323,7 @@ if __name__ == '__main__':
         'password': 'root',
         'host': 'localhost',
         'port': 8889,
-        'database': 'ecomm_store_sample_db'
+        'database': None
     }
 
     number_of_customers = 200
@@ -314,6 +333,8 @@ if __name__ == '__main__':
     # Start generating data
     data_generator = SampleDataGenerator(db_config)
 
+    data_generator.create_schema_and_tables()
+    
     data_generator.insert_customers(number_of_customers)
     # data_generator.insert_products_from_csv()
     data_generator.insert_products_from_json_file()

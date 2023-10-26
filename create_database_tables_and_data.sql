@@ -9,6 +9,7 @@ Tables list
  -- Product_categories
 */
 
+-- ***** TO CHANGE THE DATABASE NAME UPDATE LINE #16 & #20
 
 
 -- Create the database
